@@ -2,5 +2,5 @@
 
 Code lives in gh-pages branch
 
-Site URL: [http://manymengofishing.github.com/my_fucking_projects](http://manymengofishing.github.com/my_fucking_projects)
+Site URL: [http://manymengofishing.github.com/myfuckingprojects](http://manymengofishing.github.com/myfuckingprojects)
 
